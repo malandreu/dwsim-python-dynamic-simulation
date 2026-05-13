@@ -22,6 +22,10 @@ Once a dynamic flowsheet can be controlled from Python, it becomes a reproducibl
 
 ### Flowsheet
 
+![Flowsheet](01_separator/separator_sample_simulation.png)
+
+
+
 ```
 Feed ──► FV-01 ──► SG-01 ──► PV-01 ──► gas outlet
                       │
