@@ -89,7 +89,7 @@ pip install pythonnet numpy pandas matplotlib
 
 ## Related
 
-- [LinkedIn article series]([https://www.linkedin.com](https://www.linkedin.com/posts/miguel-angel-lopez-andreu_processsimulation-dwsim-python-ugcPost-7460387750375161856-smmX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAI1MMgBX20p8ip4qpi-ozJ_GIWHZSv6oKI)) 
+- [LinkedIn article series]([https://www.linkedin.com/posts/miguel-angel-lopez-andreu_processsimulation-dwsim-python-ugcPost-7460387750375161856-smmX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAI1MMgBX20p8ip4qpi-ozJ_GIWHZSv6oKI])) 
 - [DWSIM](https://dwsim.org) — open source process simulator
 
 ---
